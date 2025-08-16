@@ -1,3 +1,5 @@
+![Multiple Disease Prediction System](https://0701.static.prezi.com/preview/v2/xdiuntc2v22m7frjzpyffrbje36jc3sachvcdoaizecfr3dnitcq_3_0.png)
+
 # 🧠 Multi-Disease Prediction Web App
 
 This project is a **Streamlit-based web application** that uses **Artificial Neural Networks (ANNs)** to predict the risk of multiple diseases:
